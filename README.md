@@ -6,6 +6,7 @@ A modern and responsive web application that allows users to search for Pokémon
 
 - **Search Functionality**: Search for Pokémon by name.
 - **Pagination**: Browse through Pokémon pages with responsive pagination controls.
+- **Pokemon Details**: Show the pokemon details.
 - **Filter**: Filter Pokemon by type.  
 - **Responsive Design**: Optimized for both mobile and desktop views.
 - **No Data Handling**: Displays a user-friendly message when no data is found.
