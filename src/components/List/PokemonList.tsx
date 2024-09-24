@@ -39,7 +39,7 @@ const PokemonList: React.FC = () => {
       setError("");
       try {
         const response = await axios.get<PokemonAPIResponse>(
-          "https://pokeapi.co/api/v2/pokemon?limit=100"
+          "https://pokeapi.co/api/v2/pokemon?limit=500"
         );
 
         if (!response?.data?.results) {
